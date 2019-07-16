@@ -9,5 +9,8 @@ Repository to gather and share ideas eventually spurring discussions and possibl
 ### Areas of Study: 
 Domains that are valuable/needed.
 
-### Minimum required skills: 
+### Minimum Required Skills: 
 Skills required to participate in the project.
+
+### List of Interested Parties:
+A section to be edited by those who wish to contribute.

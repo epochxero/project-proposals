@@ -1,10 +1,13 @@
 # Project Proposals
-Repository to gather and share ideas eventually spurring discussions and possibly implementations. Please adhere to the proposal template.
+Repository to gather and share ideas eventually spurring discussions and possibly implementations. Please adhere to the proposal template below.
 
-**Title**
+## Title 
 
-**Project Summary**: 3 to 5 paragraphs detailing the research.
+### Summary: 
+3 to 5 paragraphs detailing the research.
 
-**Areas of Study**: Domains that are valuable/needed.
+### Areas of Study: 
+Domains that are valuable/needed.
 
-**Minimum required skills**: Skills required to participate in the project.
+### Minimum required skills: 
+Skills required to participate in the project.

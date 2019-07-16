@@ -8,3 +8,6 @@ Repository to gather and share ideas eventually spurring discussions and possibl
 **Areas of Study**: Domains that are valuable/needed.
 
 **Minimum required skills**: Skills required to participate in the project.
+
+---
+(Template contents suggested by tyler)

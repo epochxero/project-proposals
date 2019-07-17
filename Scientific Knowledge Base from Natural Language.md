@@ -16,5 +16,5 @@ NLP, commonsense reasoning, materials science, possilbly graph neural networks
 Python, PyTorch (or Tensorflow), experience with text processing and NLP, ability to read understand and evaluate relevant literature
 
 ### List of Interested Parties:
-Tyler (Initial Proponent)
+Tyler (Initial Proponent), 
 Arkin (Participant)

@@ -17,3 +17,4 @@ Python, PyTorch (or Tensorflow), experience with text processing and NLP, abilit
 
 ### List of Interested Parties:
 Tyler (Initial Proponent)
+Arkin (Participant)

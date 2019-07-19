@@ -15,3 +15,5 @@ Biosignal Analysis, Reinforcement Learning, Variational Autoencoders, Latent Var
 ### Minimum Required Skills
 Python with an emphasis on Deep Learning frameworks, Biosignal processing, Variational Autoencoders and Reinforcement Learning techniques (particularly temporal difference learning)
 
+### List of Interested Parties
+Sanjay(Participant)

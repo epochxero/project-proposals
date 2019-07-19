@@ -19,4 +19,5 @@ Python, PyTorch (or Tensorflow), experience with text processing and NLP, abilit
 Tyler (Initial Proponent), 
 Arkin (Participant),
 Alekzandr (Participant),
-Akul (Participant)
+Akul (Participant),
+Kia (Participant)

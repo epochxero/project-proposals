@@ -15,4 +15,5 @@ Python and PyTorch/Tensorflow
 
 ## List of Interested Parties
 Nick (PI) - Radiation Oncology Resident Physician
+Akul Vohra - Basic/Intermediate level-knowledge with DL/CNNs
 

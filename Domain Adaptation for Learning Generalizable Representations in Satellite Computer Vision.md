@@ -11,5 +11,4 @@ General representations would allow for more effective use of unstructured data,
 Computer Vision, Remote Sensing, Domain Adaptation, GANs
 
 ### Minimum Required Skills
-Basic understanding of Computer Vision, GANs, and Domain Adaptation, preferrably with experience in Data Science (particularly in handling image/video data) or with some background in Domain Adaptation or Transfer Learning research.
-
+Basic understanding of Computer Vision, GANs, and Domain Adaptation

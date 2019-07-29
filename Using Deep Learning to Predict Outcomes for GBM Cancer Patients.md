@@ -14,7 +14,7 @@ Cancer, Radiation, Radiomics, Genomics, Pathology
 Python and PyTorch/Tensorflow
 
 ## List of Interested Parties
-Nick (PI) - Radiation Oncology Resident Physician
-, Akul Vohra - Basic/Intermediate level-knowledge with DL/CNNs,
-Sanjay Nagaraj - Participant
+- Nick (PI) - Radiation Oncology Resident Physician
+- Akul Vohra - Experience with DL/CNNs,
+- Sanjay Nagaraj - Participant
 

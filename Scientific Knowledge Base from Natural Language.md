@@ -15,7 +15,7 @@ NLP, commonsense reasoning, materials science, possilbly graph neural networks
 ### Minimum Required Skills: 
 Python, PyTorch (or Tensorflow), experience with text processing and NLP, ability to read understand and evaluate relevant literature
 
-### List of Interested Parties:
+### List of Participants:
 - Tyler (Initial Proponent)
 - Arkin (Participant)
 - Alekzandr (Participant)

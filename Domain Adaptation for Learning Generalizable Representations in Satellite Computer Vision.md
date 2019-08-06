@@ -12,3 +12,6 @@ Computer Vision, Remote Sensing, Domain Adaptation, GANs
 
 ### Minimum Required Skills
 Basic understanding of Computer Vision, GANs, and Domain Adaptation
+
+### List of Participants
+- ragaDani (Participant)

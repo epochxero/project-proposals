@@ -15,6 +15,5 @@ Python and PyTorch/Tensorflow
 
 ## List of Participants
 - Nick (PI) - Radiation Oncology Resident Physician
-- Akul Vohra - Experience with DL/CNNs,
 - Sanjay Nagaraj - Participant
 
